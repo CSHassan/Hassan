@@ -2,7 +2,8 @@
 Read emails from either a specific sender or just the Top N number of email
 
 
----Python Email Reader----
+---Python Email Reader---
+
 Version 0.1
 
 SetUp:
@@ -21,4 +22,8 @@ next feature to add changes:
 1) make it possible for multiple email to be run 
 
 2) add outlook support
+
+---Reddit Script ---
+
+WIP , just getting a look into how reddit api works
 
